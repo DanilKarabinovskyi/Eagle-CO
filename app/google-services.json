@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "448905394987",
+    "project_id": "eagleco-55707",
+    "storage_bucket": "eagleco-55707.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:448905394987:android:a988a6dc2cdd95ba8c236e",
+        "android_client_info": {
+          "package_name": "com.example.eaglecompany"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "448905394987-i76jk1t9svkmrth0cb5hhsrhvfsrtabo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eaglecompany",
+            "certificate_hash": "913e0734a52076094c68de1d116d8e649445e41f"
+          }
+        },
+        {
+          "client_id": "448905394987-jt4c57r38q31t52p58k63sb7i4spokgj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBccAmtEjLW0CsnidKbkOsktYjhlpX7O8c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "448905394987-jt4c57r38q31t52p58k63sb7i4spokgj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
